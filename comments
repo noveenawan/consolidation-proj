@@ -1,0 +1,3 @@
+comments: 
+You should add error handling for file operations like if file not found
+Consider adding a max. number of guesses allowed to prevent infinite loops
